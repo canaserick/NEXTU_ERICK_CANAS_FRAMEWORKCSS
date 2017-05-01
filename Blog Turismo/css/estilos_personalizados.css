@@ -1,0 +1,92 @@
+.brand-logo img{
+    width: 240px;
+    margin-left: 70px;
+    margin-top: 30px;
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+}
+
+.brand-logo-small img{
+    width: 100%;
+    margin-top: 15px;
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+}
+
+.menu{
+    width:200px;
+    padding-top:0px;
+    font-size: 1em;
+}
+
+#menu_small{
+    width:30px;
+    height:40px;
+    padding-top:0px;
+}
+
+.i_small{
+    font-size:larger;
+    padding:0px 0px 0px 0px;
+    margin:0px 0px 0px 0px;
+}
+
+.principal{
+    background-image:url("../img/Cotopaxi.jpg");
+    background-position:center;
+    background-size: cover;
+}
+
+.img_logo{
+  border-radius: 10px 10px 10px 10px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+}
+
+.borde{
+  border-style: solid;
+  height: 200px;
+}
+
+.borde2{
+  height: 50px;
+}
+
+.redes{
+  width: 60px;
+  height: 60px;
+  margin-left: 10px;
+  border-radius: 10px 10px 10px 10px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+}
+
+.mi_image{
+  width: 90%;
+  height: auto;
+  border-radius: 10px 10px 10px 10px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+}
+
+.mi_image2{
+  width: 100%;
+  height: auto;
+}
+
+.mi_image3{
+  width: 800px;
+  height: 400px;
+}
+
+.mi_blog{
+  background-color: white;
+  border-style: solid;
+}
+
+p{
+    text-align: justify;
+    text-justify: inter-word;
+}
